@@ -17,7 +17,6 @@ Jonell Joslin,FR,0,1
 Tana Theel,EN,2,6
 Florencio Friley,FR,0,0
 Costin Rijnders,FR,2,1
-
 Destiny Denicola,EN,0,0
 Denita Decato,FR,0,0
 Shanika Summerall,EN,0,5
