@@ -17,5 +17,4 @@ Larita Luedke,FR,0,0
 Destiny Denicola,EN,0,0
 Denita Decato,FR,0,0
 Shanika Summerall,EN,0,5
-Delicia Dorado,FR,1,0
 
