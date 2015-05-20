@@ -7,7 +7,10 @@ Tania Tipping,FR,0,0
 Damien Dandy,FR,0,1
 Tom Touchstone,EN,3,0
 Annie Allaire,EN,3,1
-Machelle Maston,EN,0,5
+
+Adino Puig,EN,0,12
+Jaroslawa Zupan,FR,5,6
+
 Constance Cupps,FR,0,3
 Jonell Joslin,FR,0,1
 Tana Theel,EN,2,6
