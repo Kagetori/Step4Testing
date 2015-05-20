@@ -21,5 +21,4 @@ Destiny Denicola,EN,0,0
 Denita Decato,FR,0,0
 Shanika Summerall,EN,0,5
 Burkhard Vernon,FR,2,9
-Alexy Capello,EN,4,0
 
